@@ -1,5 +1,8 @@
 # Codebasics Q&A 📝
 
+<img width="1512" alt="Screenshot 2024-06-24 at 10 57 33 PM" src="https://github.com/arsh248/Codebasics_langchain_qa/assets/62460837/6df07755-3595-4e30-a173-23dfce714ce6">
+
+
 This is a Streamlit application that provides a Q&A interface for the Codebasics FAQ dataset using a language model from Langchain. The application loads a pre-trained FAISS vector store and uses it to retrieve relevant answers based on user questions.
 
 ## Project Structure
@@ -15,7 +18,7 @@ This is a Streamlit application that provides a Q&A interface for the Codebasics
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/codebasics-qa.git
+    git clone https://github.com/arsh248/Codebasics_langchain_qa
     cd codebasics-qa
     ```
 
